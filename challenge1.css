@@ -56,12 +56,6 @@
 		margin-top: 25px;
 		border-radius: 20px;
 	}
-	.fuel {
-		background-color: #232b38;
-		height: auto;
-		margin-top: 25px;
-		border-radius: 20px;
-	}
 	#doughnut-chart {
 		margin-top: -10px;
 	}
@@ -117,12 +111,6 @@
 		margin-top: 35px;
 		border-radius: 20px;
 	}
-	.fuel {
-		background-color: #232b38;
-		height: auto;
-		margin-top: 35px;
-		border-radius: 20px;
-	}
 }
 @media only screen and (min-width: 1025px) {
 	.welcome {
@@ -170,13 +158,6 @@
 		width: 40%;
 		margin-top: 20px;
 		margin-left: 20px;
-	}
-	.fuel {
-		background-color: #232b38;
-		height: auto;
-		width: 40%;
-		margin-left: 30px;
-		margin-top: 20px;
 	}
 	#bar-chart {
 		margin-left: 10px;
